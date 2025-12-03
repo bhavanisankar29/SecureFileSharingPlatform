@@ -1,6 +1,6 @@
 # 🚀 Secure File Storage Platform
 
-A full-stack web application that operates like a simplified version of Google Drive. Users can create an account to securely upload, view, download, and delete their files.
+A full-stack web application in which users can create an account to securely upload, view, download, and delete their files.
 
 The project is built using a **Spring Boot** backend for secure API handling and file management, paired with a modern **React.js** frontend for a responsive user experience.
 
