@@ -1,0 +1,7 @@
+Created example.txt
+Initialized git
+"Initial commit" DONE
+Trying to push into the remote repo after commiting these changes in the local repo.
+Initial push to the repo(bhavanisankar29/git-tutorial) is done.
+Credential manager shows credentials that belong to bhavanisankar29.
+Trying for a third commit to see if log pops up again.
